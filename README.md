@@ -36,7 +36,7 @@ A 3D dragon puzzle solving game. Three dragons to switch between controls.
 
 I Programmed the AI movement of the following characters, movement, character swapping.
 
-Team of 8 members
+Team of 7 members
 
 [Driopitch.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Drio/Drio%20pitch.pdf)
 
