@@ -22,9 +22,7 @@ We had a team of 10 members
 
 I programmed all the buff mechanics, menu and UI behavior, health.
 
-Built With: Unity
-
-Languages Used : C#
+Built With: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
