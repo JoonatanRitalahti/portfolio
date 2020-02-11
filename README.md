@@ -16,7 +16,7 @@ A 3D sword fighting game set on a planet. 2-4 players online multiplayer. Last o
 
 A spherical map that has different areas and buffs, buildings that can be captured.
 
-We had a team of 11 members
+We had a team of 10 members
 
 [PitchRattlingRaid.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Rattling%20Raid/Pitch%20Rattling%20Raid.pdf)
 
