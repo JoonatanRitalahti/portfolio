@@ -50,6 +50,8 @@ Top down zombie shooter game with pickups.
 
 Solo Project.
 
+[Scripts](https://github.com/JoonatanRitalahti/portfolio/tree/master/GameFiles/Code%20Samples/The%20Last%20Day%20Of%20Apocalypse)
+
 [TLDOFDemo](https://youtu.be/kzJaF3Qlndc)
 
 Built with: Unity C#
