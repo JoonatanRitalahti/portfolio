@@ -40,6 +40,8 @@ Team of 7 members
 
 [DrioDemo](https://youtu.be/pT3_CnzERUw)
 
+[DrioCert](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Certifications/PreBitDiploma.jpg)
+
 Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
