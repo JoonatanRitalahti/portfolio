@@ -1,6 +1,7 @@
 # Games portfolio
 
-I am a game developer studying in Metropolia university of applied sciences
+I am a game developer.
+I graduate from Metropolia university of applied sciences 20.12.2021.
 
 
 
@@ -10,13 +11,13 @@ I am a game developer studying in Metropolia university of applied sciences
 
 Game Projects
 
-## Rattling Raid [3D]
+## Rattling Raid - Windows [3D]
 
 A 3D sword fighting game set on a planet. 2-4 players online multiplayer. Last one to survive wins.
 
 A spherical map that has different areas and buffs, buildings that can be captured.
 
-We had a team of 10 members
+We had a team of 10 members.
 
 [PitchRattlingRaid.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Rattling%20Raid/Pitch%20Rattling%20Raid.pdf)
 
@@ -26,15 +27,13 @@ Built With: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-## Drio [3D]
+## Drio - Windows [3D]
 
 A 3D dragon puzzle solving game. Three dragons to switch between controls.
 
-I Programmed the AI movement of the following characters, movement, character swapping.
+I programmed the AI movement of the following characters, movement, character swapping.
 
-Team of 7 members
+Team of 7 members.
 
 [Driopitch.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Drio/Drio%20pitch.pdf)
 
@@ -46,7 +45,21 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## The Last Day Of Apocalypse [3D]
+## Eggballer - Android [3D]
+
+A 3D ball throwing game. Throw trick shots to gain new highscores. Published in Google Play Store.
+
+I was team lead and responsible for publishing the game. I programmed the leveling mechanics and ball throwing mechanics.
+
+Team of 3 members.
+
+[Eggballer Google Play](https://play.google.com/store/apps/details?id=com.sponxiegames.Eggballer)
+
+Built with: Unity C#
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## The Last Day Of Apocalypse - Windows [3D]
 
 Top down zombie shooter game with pickups.
 
@@ -60,7 +73,7 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Lakewell Fortress [2D]
+## Lakewell Fortress - Windows [2D]
 
 Zombie fighting game
 
