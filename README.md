@@ -83,3 +83,19 @@ Team of 2.
 
 Built with: Unity C#
 Website with html
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Traffic App - Android
+
+App that uses Traffic Measurement System data provided by Digitraffic.
+
+Solo project.
+
+[Project Demo Youtube](https://youtu.be/FU_cDRMsqKo)
+
+English and Finnish language support. Sidepanel Listview for changing TMS Station. Location for closest station. Streamwriter for offline use. Realtime data gathering.
+
+[MainActivity Script](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Code%20Samples/Traffic%20App%20Scripts/Main3Activity.java)
+
+Built with: Java
