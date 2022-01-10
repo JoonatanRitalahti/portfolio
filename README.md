@@ -37,7 +37,7 @@ Team of 7 members.
 
 [Driopitch.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Drio/Drio%20pitch.pdf)
 
-[DrioDemo](https://youtu.be/pT3_CnzERUw)
+[DrioDemoVideo](https://youtu.be/pT3_CnzERUw)
 
 [DrioCert](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Certifications/PreBitDiploma.jpg)
 
@@ -67,7 +67,7 @@ Solo Project.
 
 [Scripts](https://github.com/JoonatanRitalahti/portfolio/tree/master/GameFiles/Code%20Samples/The%20Last%20Day%20Of%20Apocalypse)
 
-[TLDOFDemo](https://youtu.be/kzJaF3Qlndc)
+[TLDOFDemoVideo](https://youtu.be/kzJaF3Qlndc)
 
 Built with: Unity C#
 
