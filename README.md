@@ -1,7 +1,7 @@
 # Games portfolio
 
 I am a game developer.
-I graduate from Metropolia university of applied sciences 20.12.2021.
+I graduated from Metropolia university of applied sciences December, 2021.
 
 
 
