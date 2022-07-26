@@ -12,6 +12,7 @@ I graduated from Metropolia university of applied sciences December, 2021.
 Game Projects
 
 ## Rattling Raid - Windows [3D]
+![image](https://user-images.githubusercontent.com/60940224/180957800-3447f821-37d5-4053-b8cd-717bc5c35b05.png)
 
 A 3D sword fighting game set on a planet. 2-4 players online multiplayer. Last one to survive wins.
 
@@ -28,6 +29,7 @@ Built With: Unity C#
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Drio - Windows [3D]
+![image](https://user-images.githubusercontent.com/60940224/180957089-f5bdb65b-bbee-4294-b016-dc8b1acac092.png)
 
 A 3D dragon puzzle solving game. Three dragons to switch between controls.
 
@@ -46,6 +48,7 @@ Built with: Unity C#
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Eggballer - Android [3D]
+![image](https://user-images.githubusercontent.com/60940224/180956530-27c66db7-b8de-47e5-94a8-261c607ffca5.png)
 
 A 3D ball throwing game. Throw trick shots to gain new highscores. Published in Google Play Store.
 
@@ -60,6 +63,7 @@ Built with: Unity C#
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## The Last Day Of Apocalypse - Windows [3D]
+![image](https://user-images.githubusercontent.com/70762566/180955737-e41fb4d3-3f81-4cca-8811-14d9a6e7c3a8.png)
 
 Top down zombie shooter game with pickups.
 
