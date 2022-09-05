@@ -47,6 +47,18 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+## Minigame for Snatch (Playstack) - Android [3D]
+
+I was responsible for character movement, camera movement and spawning mechanics.
+
+The project took three months and was made in part of innovation project course.
+
+Team of 6 members.
+
+Built with: Unity C#
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## Eggballer - Android [3D]
 ![image](https://user-images.githubusercontent.com/60940224/180956530-27c66db7-b8de-47e5-94a8-261c607ffca5.png)
 
