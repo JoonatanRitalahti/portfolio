@@ -11,6 +11,14 @@ I graduated from Metropolia university of applied sciences December, 2021.
 
 Game Projects
 
+## Tiles & Tales (Kuuhubb) - Mobile
+[![image](https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-6/274935198_679947740106415_6184484367866252634_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ryX8jVhbc6gAX_aiiDJ&_nc_oc=AQnxRKm1JZHX3fTrpPNxndBxnXzgyK8rj4AnEMOhI4YaEc34iPzMaJQvLx208lSnerJbuKtBxa415sleqo5Jp0kT&_nc_ht=scontent.fqlf1-2.fna&oh=00_AfASWu_B7zv7U7qbk7k2_5VJ3C6DzcMaviaByHA5cOFkUg&oe=63BD495C)](#)
+
+A match3 puzzle and story game for Android and iOS.
+
+I am a Junior Unity Developer on the project.
+
+
 ## Rattling Raid - Windows [3D]
 [![image](https://user-images.githubusercontent.com/60940224/180957800-3447f821-37d5-4053-b8cd-717bc5c35b05.png)](#)
 
@@ -36,7 +44,7 @@ Built With: Unity C#
 
 [Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
 
-Unity Developer.
+Unity Developer. Forest transition code. Character movement.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
