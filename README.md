@@ -12,7 +12,7 @@ I graduated from Metropolia university of applied sciences December, 2021.
 Game Projects
 
 ## Tiles & Tales (Kuuhubb) - Mobile
-[![image](https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-6/244701135_589981065769750_7814155227840007182_n.png?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=nsJ9Htifx0QAX-I2Al7&_nc_ht=scontent.fqlf1-2.fna&oh=00_AfBulYMJQT5NdHOkvA9pTDHbPoigFLKRHon6WLYeh-epkg&oe=63F396D8)](#)
+[![image](https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-6/244701135_589981065769750_7814155227840007182_n.png?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=nsJ9Htifx0QAX-I2Al7&_nc_ht=scontent.fqlf1-2.fna&oh=00_AfBulYMJQT5NdHOkvA9pTDHbPoigFLKRHon6WLYeh-epkg&oe=63F396D8)](https://linktr.ee/tilesandtales)
 
 A match3 puzzle and story game for Android and iOS.
 
