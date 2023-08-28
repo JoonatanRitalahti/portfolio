@@ -9,15 +9,54 @@ I graduated from Metropolia university of applied sciences December, 2021.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Game Projects
+## **Professional Game Projects**
+## My Hospital (Kuuhubb) - Mobile
+[![image](https://i.ytimg.com/vi/iFSbH8owRBA/maxresdefault.jpg)](https://myhospital.games/)
+The ultimate hospital tycoon game. Top down 3D game for Android and iOS.
+
+[MyHospital](https://myhospital.games/)
+
+I am a Junior Unity Developer on the project. I have worked on multiple issues in the span of five months. 
+Biggest change I did, was adding a tutorial skip button for developers to skip hardcoded tutorials.
 
 ## Tiles & Tales (Kuuhubb) - Mobile
 [![image](https://kuuhubb.com/wp-content/uploads/2021/05/TnT_heroimage.jpg)](https://linktr.ee/tilesandtales)
+
 A match3 puzzle and story game for Android and iOS.
 
 [Tiles&Tales](https://linktr.ee/tilesandtales)
 
-I am a Junior Unity Developer on the project.
+I was a Junior Unity Developer on the project for seven months. My biggest projects were adding a randomised weekly booster reward to be unlocked by watching an ad. I added Unity advertisements to the project.
+I added support for one time IAPs and limited time event rotation with time calculation and purchase checks.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## AITTA - Finnish folktales - Windows [3D]
+[![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittafinnishfolktales.com/)
+
+3rd person survival-sneaking and story-driven AITTA will bring you the forgotten stories from the deep Scandinavian forests.
+
+[Website](https://www.aittafinnishfolktales.com/)
+
+[Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
+
+Unity Developer. Forest transition code. Character movement.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Minigame for Snatch (Playstack) - Android [3D]
+[![](https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2019/07/snatch.jpg)](#)
+
+I was responsible for character movement, camera movement and spawning mechanics.
+
+The project took three months and was made in part of innovation project course.
+
+Team of 6 members.
+
+Built with: Unity C#
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Other Smaller Projects**
 
 
 ## Rattling Raid - Windows [3D]
@@ -35,17 +74,6 @@ I programmed all the buff mechanics, menu and UI behavior, health.
 
 Built With: Unity C#
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-## AITTA - Finnish folktales - Windows [3D]
-[![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittafinnishfolktales.com/)
-
-3rd person survival-sneaking and story-driven AITTA will bring you the forgotten stories from the deep Scandinavian forests.
-
-[Website](https://www.aittafinnishfolktales.com/)
-
-[Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
-
-Unity Developer. Forest transition code. Character movement.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -66,18 +94,6 @@ Team of 7 members.
 
 Built with: Unity C#
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## Minigame for Snatch (Playstack) - Android [3D]
-[![](https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2019/07/snatch.jpg)](#)
-
-I was responsible for character movement, camera movement and spawning mechanics.
-
-The project took three months and was made in part of innovation project course.
-
-Team of 6 members.
-
-Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
