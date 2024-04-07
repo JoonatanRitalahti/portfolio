@@ -1,7 +1,7 @@
 # Games portfolio
 
 I am a game developer.
-I graduated from Metropolia university of applied sciences December, 2021.
+I graduated from Metropolia University of applied sciences in December 2021.
 
 
 
@@ -12,12 +12,12 @@ I graduated from Metropolia university of applied sciences December, 2021.
 ## **Professional Game Projects**
 ## My Hospital (Kuuhubb) - Mobile
 [![image](https://i.ytimg.com/vi/iFSbH8owRBA/maxresdefault.jpg)](https://myhospital.games/)
-The ultimate hospital tycoon game. Top down 3D game for Android and iOS.
+The ultimate hospital tycoon game. Top-down 3D game for Android and iOS.
 
 [MyHospital](https://myhospital.games/)
 
-I am a Junior Unity Developer on the project. I have worked on multiple issues in the span of five months. 
-Biggest change I did, was adding a tutorial skip button for developers to skip hardcoded tutorials.
+I am a Junior Unity Developer on the project. I have worked on multiple issues in five months. 
+The biggest change I made, was adding a tutorial skip button for developers to skip hardcoded tutorials.
 
 ## Tiles & Tales (Kuuhubb) - Mobile
 [![image](https://kuuhubb.com/wp-content/uploads/2021/05/TnT_heroimage.jpg)](https://linktr.ee/tilesandtales)
@@ -26,11 +26,11 @@ A match3 puzzle and story game for Android and iOS.
 
 [Tiles&Tales](https://linktr.ee/tilesandtales)
 
-I was a Junior Unity Developer on the project for seven months. My biggest projects were adding a randomised weekly booster reward to be unlocked by watching an ad. I added Unity advertisements to the project.
-I added support for one time IAPs and limited time event rotation with time calculation and purchase checks.
+I was a Junior Unity Developer on the project for seven months. My biggest project was adding a randomised weekly booster reward to be unlocked by watching an ad. I added Unity advertisements to the project.
+I added support for one-time IAPs and limited-time event rotation with time calculation and purchase checks.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-## AITTA - Finnish folktales - Windows [3D]
+## AITTA - Finnish folktales - Windows [3D] 2023
 [![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittafinnishfolktales.com/)
 
 3rd person survival-sneaking and story-driven AITTA will bring you the forgotten stories from the deep Scandinavian forests.
@@ -43,12 +43,12 @@ Unity Developer. Forest transition code. Character movement.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Minigame for Snatch (Playstack) - Android [3D]
+## Minigame for Snatch (Playstack) - Android [3D] 2020
 [![](https://i0.wp.com/invisioncommunity.co.uk/wp-content/uploads/2019/07/snatch.jpg)](#)
 
 I was responsible for character movement, camera movement and spawning mechanics.
 
-The project took three months and was made in part of innovation project course.
+The project took three months and was made as part of an innovation project course.
 
 Team of 6 members.
 
@@ -58,11 +58,21 @@ Built with: Unity C#
 
 ## **Other Smaller Projects**
 
+## Pirate Tapper Showdown - Android [3D] 2023
+[<img src="GameFiles/PirateTapperShowdown/Screenshot 2024-04-07 133022.png" width="600">](https://play.google.com/store/apps/details?id=com.SponxieGames.PirateTapperShowdown)
 
-## Rattling Raid - Windows [3D]
+A top-down two-player speed tapping game to tap your buttons faster than the opponent and win the game.
+
+I was the code lead and developed most of the code by myself. The game was developed as a Game Pro internship demo project and was made in two weeks. The game is 2.5D. See code samples in [Scripts](https://github.com/JoonatanRitalahti/portfolio/tree/ad6abefc68bfba271043262f48b761548cd23890/GameFiles/PirateTapperShowdown/Scripts)
+
+[Pirate Tapper Showdown ReadMe](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/PirateTapperShowdown/Pirate%20Tapper%20Showdown%20README.pdf)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Rattling Raid - Windows [3D] 2020
 [![image](https://user-images.githubusercontent.com/60940224/180957800-3447f821-37d5-4053-b8cd-717bc5c35b05.png)](#)
 
-A 3D sword fighting game set on a planet. 2-4 players online multiplayer. Last one to survive wins.
+A 3D sword fighting game set on a planet. 2-4 players online multiplayer. The last one to survive wins.
 
 A spherical map that has different areas and buffs, buildings that can be captured.
 
@@ -70,17 +80,17 @@ We had a team of 10 members.
 
 [PitchRattlingRaid.pdf](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Rattling%20Raid/Pitch%20Rattling%20Raid.pdf)
 
-I programmed all the buff mechanics, menu and UI behavior, health.
+I programmed all the buff mechanics, menu and UI behaviour, and health.
 
 Built With: Unity C#
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Drio - Windows [3D]
+## Drio - Windows [3D] 2021
 [![](https://user-images.githubusercontent.com/60940224/180957089-f5bdb65b-bbee-4294-b016-dc8b1acac092.png)](#)
 
-A 3D dragon puzzle solving game. Three dragons to switch between controls.
+A 3D dragon puzzle-solving game. Three dragons to switch between controls.
 
 I programmed the AI movement of the following characters, movement, character swapping.
 
@@ -97,12 +107,12 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Eggballer - Android [3D]
+## Eggballer - Android [3D] 2021
 [![](https://user-images.githubusercontent.com/60940224/180956530-27c66db7-b8de-47e5-94a8-261c607ffca5.png)](#)
 
-A 3D ball throwing game. Throw trick shots to gain new highscores. Published in Google Play Store.
+A 3D ball throwing game. Throw trick shots to gain new high scores. Published in Google Play Store.
 
-I was team lead and responsible for publishing the game. I programmed the leveling mechanics and ball throwing mechanics.
+I was the team lead and responsible for publishing the game. I programmed the levelling mechanics and ball-throwing mechanics.
 
 Team of 3 members.
 
@@ -112,10 +122,10 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## The Last Day Of Apocalypse - Windows [3D]
+## The Last Day Of Apocalypse - Windows [3D] 2020
 [![](https://user-images.githubusercontent.com/70762566/180955737-e41fb4d3-3f81-4cca-8811-14d9a6e7c3a8.png)](#)
 
-Top down zombie shooter game with pickups.
+Top-down zombie shooter game with pickups.
 
 Solo Project.
 
@@ -127,7 +137,7 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Lakewell Fortress - Windows [2D]
+## Lakewell Fortress - Windows [2D] 2019
 
 Zombie fighting game. Html Website.
 
@@ -137,15 +147,15 @@ Built with: Unity C#
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Traffic App - Android
+## Traffic App - Android 2021
 
-App that uses Traffic Measurement System data provided by Digitraffic.
+An app that uses Traffic Measurement System data provided by Digitraffic.
 
 Solo project.
 
 [Project Demo Youtube](https://youtu.be/FU_cDRMsqKo)
 
-English and Finnish language support. Sidepanel Listview for changing TMS Station. Location for closest station. Streamwriter for offline use. Realtime data gathering.
+English and Finnish language support. Sidepanel Listview for changing TMS Station. Location for closest station. Streamwriter for offline use. Real-time data gathering.
 
 [MainActivity Script](https://github.com/JoonatanRitalahti/portfolio/blob/master/GameFiles/Code%20Samples/Traffic%20App%20Scripts/Main3Activity.java)
 
