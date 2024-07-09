@@ -30,12 +30,12 @@ I was a Junior Unity Developer on the project for seven months. My biggest proje
 I added support for one-time IAPs and limited-time event rotation with time calculation and purchase checks.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-## AITTA - Finnish folktales - Windows [3D] 2023
+## AITTA - Finnish folktales (Ropoke) - Windows 2023
 [![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittafinnishfolktales.com/)
 
-3rd person survival-sneaking and story-driven AITTA will bring you the forgotten stories from the deep Scandinavian forests.
+Indie studio developing a 3rd person survival-sneaking and story-driven game AITTA. The game will bring you the forgotten stories from the deep Scandinavian forests.
 
-[Website](https://www.aittafinnishfolktales.com/)
+[Game Website](https://www.aittafinnishfolktales.com/) | [Company Website](https://www.ropoke.com/)
 
 [Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
 
