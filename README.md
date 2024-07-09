@@ -31,11 +31,11 @@ I added support for one-time IAPs and limited-time event rotation with time calc
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ## AITTA - Finnish folktales (Ropoke) - Windows 2023
-[![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittafinnishfolktales.com/)
+[![In the ferns](https://user-images.githubusercontent.com/60940224/198314903-732bff73-6492-439b-9eab-f211e1ed0f1e.jpg)](https://www.aittagame.com/)
 
 Indie studio developing a 3rd person survival-sneaking and story-driven game AITTA. The game will bring you the forgotten stories from the deep Scandinavian forests.
 
-[Game Website](https://www.aittafinnishfolktales.com/) | [Company Website](https://www.ropoke.com/)
+[Game Website](https://www.aittagame.com/) | [Company Website](https://www.ropoke.com/)
 
 [Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
 
