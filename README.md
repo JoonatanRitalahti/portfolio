@@ -1,8 +1,8 @@
 # Games portfolio
 
-I am a game developer.
-I graduated from Metropolia University of applied sciences in December 2021.
+I am a game developer looking for a full-time position. 
 
+Add me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/joonatan-ritalahti/)
 
 
 **Email:**  joonatan199@gmail.com
@@ -16,8 +16,8 @@ The ultimate hospital tycoon game. Top-down 3D game for Android and iOS.
 
 [MyHospital](https://myhospital.games/)
 
-I am a Junior Unity Developer on the project. I have worked on multiple issues in five months. 
-The biggest change I made, was adding a tutorial skip button for developers to skip hardcoded tutorials.
+I was a Junior Unity Developer on the project for eight months.
+I was involved in significant changes, including on development of an unreleased addition of a button to skip tutorials. Additionally I resolved severe bugs related to notifications on Android. I adjusted reward system to be more balanced and fair for the player (server changes and implementation).
 
 ## Tiles & Tales (Kuuhubb) - Mobile
 [![image](https://kuuhubb.com/wp-content/uploads/2021/05/TnT_heroimage.jpg)](https://linktr.ee/tilesandtales)
@@ -27,7 +27,7 @@ A match3 puzzle and story game for Android and iOS.
 [Tiles&Tales](https://linktr.ee/tilesandtales)
 
 I was a Junior Unity Developer on the project for seven months. My biggest project was adding a randomised weekly booster reward to be unlocked by watching an ad. I added Unity advertisements to the project.
-I added support for one-time IAPs and limited-time event rotation with time calculation and purchase checks.
+I added support for one-time IAPs and limited-time event rotation with time calculation and purchase checks. Additionally I added a counter to show the downloaded size in the loading screen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ## AITTA - Finnish folktales (Ropoke) - Windows 2023
@@ -40,6 +40,8 @@ Indie studio developing a 3rd person survival-sneaking and story-driven game AIT
 [Steam Page](https://store.steampowered.com/app/1942150/AITTA__Finnish_folktales/)
 
 Unity Developer. Forest transition code. Character movement.
+
+The project is since been in transition from Unity to Unreal Engine. I am helping the team while learning Unreal.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
