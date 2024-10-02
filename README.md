@@ -1,6 +1,6 @@
 # Games portfolio
 
-I am a game developer looking for a full-time position. 
+I am a game developer looking for a full-time position. Most proficient in Mobile Games and Unity Engine (C#).
 
 Add me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/joonatan-ritalahti/)
 
